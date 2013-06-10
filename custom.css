@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-/* ============================================================================================ */
-/* ===                                *White*    ^_^                                         === */
-/* ============================================================================================ */
-/*
-
-<<<<<<< HEAD
-=======
-=======
 @import url(http://fonts.googleapis.com/css?family=Satisfy);
 @import url(http://fonts.googleapis.com/css?family=Merriweather+Sans:400,700);
 @font-face{ 
@@ -28,8 +16,6 @@
 /*
 
 
->>>>>>> First Upload
->>>>>>> Re-Upload
 	========================
 	==		CONTENTS:     ==
     ========================
@@ -56,14 +42,6 @@
 	
 */
 
-<<<<<<< HEAD
-
-
-=======
-<<<<<<< HEAD
-
-
-=======
 .clear {
 clear:both;
 }
@@ -432,80 +410,36 @@ text-shadow: 1px 1px 0px #4eb1ba;
 font-size:16px;
 line-height:24px;
 }
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 
 /* ====== GLOBAL STYLES======================================================================== */
 
 	/* ~~~~~ Body Background ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-		html{background: #ECE0D0;}
-		#container {
-			background: #ECE0D0;
-			color:#000;
-<<<<<<< HEAD
-=======
-=======
 		html{height:0!important;}
 		#container {
 			background: url('/CustomData/150017466/images/bg.gif');
 			color:#222930;
 			font-family: 'Merriweather Sans', sans-serif;
->>>>>>> First Upload
->>>>>>> Re-Upload
 			}
 
 	/* ~~~~~ Link Styles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 		a, a:link, a:visited { 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			color: #000;
-			}
-
-		a:focus, a:active, a:hover { 
-			color: #000;
-<<<<<<< HEAD
-=======
-=======
 			color: #222930;
 			}
 
 		a:focus, a:active, a:hover { 
 			color: #222930;
->>>>>>> First Upload
->>>>>>> Re-Upload
 			}
 
 	/* ~~~~~ Heading Styles ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-		body #container h1{color:#000;}
-		body #container h2{color:#000;}
-		body #container h3{color:#000;}
-		body #container h4{color:#000;}
-		body #container h5{color:#000;}
-		body #container h6{color:#000;}
-<<<<<<< HEAD
-=======
-=======
 		body #container h1{color:#222930;}
 		body #container h2{color:#222930;}
 		body #container h3{color:#222930;}
 		body #container h4{color:#222930;}
 		body #container h5{color:#222930;}
 		body #container h6{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 	
 h2{font-size:28.5px;}  /* Fixed Master template making h2 too large */
 /* ======= end of GLOBAL STYLES ========================================================= */
@@ -525,15 +459,7 @@ body #container input[type=button],
 body #container button,
 body #container .btn,
 body #container .homelinks article a,
-<<<<<<< HEAD
-body #container .module_propertycontact button{color:#000 !important;}
-=======
-<<<<<<< HEAD
-body #container .module_propertycontact button{color:#000 !important;}
-=======
 body #container .module_propertycontact button{color:#222930 !important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 /* Hover Buttons */
 body #container input[type=submit]:focus,
 body #container input[type=submit]:active,
@@ -558,15 +484,7 @@ body #container .module_propertycontact button:active,
 body #container > footer > .pos .module.module_footerlinks ul li a, body #container > 
 footer > .pos .module.module_footerlinks ul li a:link, body #container > footer > 
 .pos .module.module_footerlinks ul li a:visited
-<<<<<<< HEAD
-body #container .module_propertycontact button:hover{color:#000 !important;}
-=======
-<<<<<<< HEAD
-body #container .module_propertycontact button:hover{color:#000 !important;}
-=======
 body #container .module_propertycontact button:hover{color:#222930 !important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 
@@ -575,15 +493,7 @@ body #container button.alt,
 body #container .btn-alt,
 body #container .module_featuredsearches article > a,
 body #container #col-center > .pos > .module.module_featuredsearches > section article,
-<<<<<<< HEAD
-body #container #col-center > .pos > .module.module_featuredsearches > .content article > a{color:#fff;}
-=======
-<<<<<<< HEAD
-body #container #col-center > .pos > .module.module_featuredsearches > .content article > a{color:#fff;}
-=======
 body #container #col-center > .pos > .module.module_featuredsearches > .content article > a{color:#dedede;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 /* Hover Buttons */
 body #container button.alt:focus,
 body #container button.alt:active,
@@ -599,18 +509,8 @@ body #container #col-center > .pos > .module.module_featuredsearches > section a
 body #container #col-center > .pos > .module.module_featuredsearches > section article > a:hover,
 body #container #col-center > .pos > .module.module_featuredsearches > .content article > a:focus,
 body #container #col-center > .pos > .module.module_featuredsearches > .content article > a:active,
-<<<<<<< HEAD
-body #container #col-center > .pos > .module.module_featuredsearches > .content article > a:hover{color:#000;}
-div.a-i{color:#000 !important;}
-=======
-<<<<<<< HEAD
-body #container #col-center > .pos > .module.module_featuredsearches > .content article > a:hover{color:#000;}
-div.a-i{color:#000 !important;}
-=======
 body #container #col-center > .pos > .module.module_featuredsearches > .content article > a:hover{color:#222930;}
 div.a-i{color:#222930 !important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 /* ====== end of BUTTON STYLES  ===================================================== */
 
@@ -626,16 +526,8 @@ div.a-i{color:#222930 !important;}
 
 	/* Wraps everything between Header and Footer in 980px fixed width div*/
 
-<<<<<<< HEAD
-		body #container > #body{color:#000; background-color:white;}
-=======
-<<<<<<< HEAD
-		body #container > #body{color:#000; background-color:white;}
-=======
 		body #container > #body{color:#222930; background-color:#dedede;padding: 10px 20px;
 width: 940px!important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 	
 
 	/* ----- Page Body ------------------------------------------------------------- */
@@ -678,43 +570,19 @@ width: 940px!important;}
 	/* ~~~~~ Meta Menu (Home - Contact - My Home Tracker -- Log In) ~~~~~~~~~~~~~~ */
 	
 		
-<<<<<<< HEAD
-		 body #container > header > .pos > #nav_head{padding-top:5px; float:right;} 
-=======
-<<<<<<< HEAD
-		 body #container > header > .pos > #nav_head{padding-top:5px; float:right;} 
-=======
 		 body #container > header > .pos > #nav_head{display:none!important;} 
->>>>>>> First Upload
->>>>>>> Re-Upload
 		 body #container > header > .pos > #nav_head ul{}
 		 body #container > header > .pos > #nav_head ul li{}
 
 					/* Regular Links */
 					#nav_head ul li a,
 					#nav_head ul li a:link,
-<<<<<<< HEAD
-					#nav_head ul li a:visited{color:black;}
-=======
-<<<<<<< HEAD
-					#nav_head ul li a:visited{color:black;}
-=======
 					#nav_head ul li a:visited{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 					/* Hover Links */
 					#nav_head ul li a:focus,
 					#nav_head ul li a:active,
-<<<<<<< HEAD
-					#nav_head ul li a:hover{color:black;}
-=======
-<<<<<<< HEAD
-					#nav_head ul li a:hover{color:black;}
-=======
 					#nav_head ul li a:hover{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 
 	
@@ -727,20 +595,6 @@ width: 940px!important;}
 			- header > .pos had default height of 125px, so you may be to add height property
 	*/
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-		 #container > header {	}
-		 #container > header > .pos{
-		  background-image:url(/CustomData/150017448/images/customheader.jpg); 
-		  height:190px; 
-		  width:980px; 
-		  background-position:bottom; 
-		  background-repeat:no-repeat;
-<<<<<<< HEAD
-=======
-=======
 		 #container > header {height:445px;	}
 		 #container > header > .pos{
 		  height:500px; 
@@ -753,8 +607,6 @@ width: 940px!important;}
 		  border-radius:15px 15px 0 0; 
 		  position:relative;
 		  top:-64px;
->>>>>>> First Upload
->>>>>>> Re-Upload
 		 }
 		 
 		/*Header Contact Info - Name, Office Information */
@@ -783,20 +635,8 @@ width: 940px!important;}
 		/* Top Level Nav Controls (background, etc.) */
 			body #container > #nav_main{
 			border:none; 
-<<<<<<< HEAD
-			background:url(/CustomData/150017448/images/navback.jpg) #A9A889; 
-			background-repeat:repeat-x; 
-			height:40px; 
-=======
-<<<<<<< HEAD
-			background:url(/CustomData/150017448/images/navback.jpg) #A9A889; 
-			background-repeat:repeat-x; 
-			height:40px; 
-=======
 			background: #4eb1ba;
 			height:55px; 
->>>>>>> First Upload
->>>>>>> Re-Upload
 			width:980px;
 			margin:0px auto 0px;
 			}
@@ -814,18 +654,6 @@ width: 940px!important;}
 			body #container > #nav_main > .nav_main > ul > li.ui-menu-item > a,
 			body #container > #nav_main > .nav_main > ul > li.ui-menu-item > a:link,
 			body #container > #nav_main > .nav_main > ul > li.ui-menu-item > a:visited
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			{font-size:18px; 
-			text-align:center; 
-			margin-left:17px;
-			line-height:2;
-			color:#fff;
-<<<<<<< HEAD
-=======
-=======
 			{
 			font-size: 21px;
 text-align: center;
@@ -840,8 +668,6 @@ transition: background .2s linear;
 font-family: 'Merriweather Sans', sans-serif;
 text-transform:uppercase!important;
 text-shadow:1px 1px 0px #dedede;
->>>>>>> First Upload
->>>>>>> Re-Upload
 			}
 
 		/* Hover Links */
@@ -852,27 +678,6 @@ text-shadow:1px 1px 0px #dedede;
 			body #container > #nav_main > .nav_main > ul > li > a.ui-state-active,
 			body #container > #nav_main > .nav_main > ul > li > a:hover,
 			body #container > #nav_main > .nav_main > ul > li > a.ui-state-hover,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			body #container > #nav_main > .nav_main > ul > li > a.ui-active-menuitem{color:#000; text-decoration:underline;}
-
-
-		/* ~~~~~ Drop Down Menus ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-			body #container > #nav_main > .nav_main > ul > li > ul{background-color:#fff;}
-			body #container > #nav_main > .nav_main > ul > li > ul > li{color:#000;}
-		/* Regular Links */
-			body #container > #nav_main > .nav_main > ul > li > ul > li > a,
-			body #container > #nav_main > .nav_main > ul > li > ul > li > a:link,
-			body #container > #nav_main > .nav_main > ul > li > ul > li > a:visited{color:#000; font-weight:bold;;}
-		/* Hover Links */
-			body #container > #nav_main > .nav_main > ul > li > ul > li > a:focus,
-			body #container > #nav_main > .nav_main > ul > li > ul > li > a:active,
-			body #container > #nav_main > .nav_main > ul > li > ul > li > a:hover{color:#fff; background:#000; font-weight:bold;}
-<<<<<<< HEAD
-=======
-=======
 			body #container > #nav_main > .nav_main > ul > li > a.ui-active-menuitem{
 			background:#222930;
 			color:#dedede;
@@ -908,8 +713,6 @@ nav li ul {background:none!important;}
 			-moz-border-radius: 0!important;
 			-ms-border-radius: 0!important;
 			border-radius:0!important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 			
 			
 /* ======= end of MAIN MENU STYLES ============================================================= */
@@ -919,45 +722,6 @@ nav li ul {background:none!important;}
 
 
 /* ====== FOOTER STYLES ======================================================================= */
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			body #container > footer{background-color:#CDC797; width:980px; margin:0px auto 0px;}
-		/* ~~~~~ Footer Content Wrapper ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-			body #container > footer .foot_content{color:#000;}
-			body #container > footer .foot_content a{color:#000;} 
-			body #container > footer .foot_content > .pos{color:#000; padding:1em; } 
-
-
-		/* ~~~~~ Business Card ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-			body #container > footer .foot_content .module.module_bizcard{color:#000;}
-		/* Header */
-			body #container > footer .foot_content .module.module_bizcard > header{color:#000;}
-		/* Title */
-			body #container > footer .foot_content .module.module_bizcard > header > *
-			body #container > footer .foot_content .module.module_bizcard > header hgroup > *{color:#000;}
-			body #container > footer .foot_content .module.module_bizcard > section,
-			body #container > footer .foot_content .module.module_bizcard > .content{color:#000;}
-		/* Address */
-			body #container > footer .foot_content .module.module_bizcard > section .adr,
-			body #container > footer .foot_content .module.module_bizcard > .content .adr{color:#000;}
-			footer .module.module_bizcard .adr span{color:#000;}
-
-
-		/* ~~~~~ Custom Content ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-			body #container > footer .foot_content .module.module_customcontent{color:#000;}
-		/* Header (works on default content only) */
-			body #container > footer .foot_content module.module_customcontent > header{color:#000;}
-		/* Title (works on default content only) */
-			body #container > footer .foot_content .module.module_bizcard > header > *
-			body #container > footer .foot_content .module.module_bizcard > header hgroup > *{color:#000;}
-		/* Content */
-			body #container > footer .foot_content .module.module_customcontent > section,
-			body #container > footer .foot_content .module.module_customcontent > .content{color:#000;}
-<<<<<<< HEAD
-=======
-=======
 			body #container > footer{background:none; width:980px; margin:0px auto 0px;}
 		/* ~~~~~ Footer Content Wrapper ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 			body #container > footer .foot_content{color:#222930;}
@@ -990,66 +754,12 @@ nav li ul {background:none!important;}
 		/* Content */
 			body #container > footer .foot_content .module.module_customcontent > section,
 			body #container > footer .foot_content .module.module_customcontent > .content{color:#fff;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 		/* Custom Titles */
 			body #container > footer .foot_content .module.module_customcontent h1,
 			body #container > footer .foot_content .module.module_customcontent h2,
 			body #container > footer .foot_content .module.module_customcontent h3,
 			body #container > footer .foot_content .module.module_customcontent h4,
 			body #container > footer .foot_content .module.module_customcontent h5,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			body #container > footer .foot_content .module.module_customcontent h6{color:#000;}
-
-
-		/* ~~~~~ Disclaimer Module ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-			body #container > footer > .pos .module.module_disclaimer{color:#000;}
-		/* Content */
-			body #container > footer > .pos .module.module_disclaimer > section,
-			body #container > footer > .pos .module.module_disclaimer > .content{color:#000;}
-		/* Default Text */
-			body #container > footer > .pos .module.module_disclaimer small{color:#000;}
-		/* Credit Text */
-			body #container > footer > .pos .module.module_disclaimer .credits{color:#000;}
-		/* Copyright Text */
-			body #container > footer > .pos .module.module_disclaimer .copyright{color:#000;}
-		/* Regular Links */
-			body #container > footer > .pos .module.module_disclaimer a,
-			body #container > footer > .pos .module.module_disclaimer a:link,
-			body #container > footer > .pos .module.module_disclaimer a:visited{color:#000;}
-		/* Hover Links */
-			body #container > footer > .pos .module.module_disclaimer a:focus,
-			body #container > footer > .pos .module.module_disclaimer a:active,
-			body #container > footer > .pos .module.module_disclaimer a:hover{color:#000;}
-
-
-		/* ~~~~~ Footer Link Module ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-			body #container > footer > .pos .module.module_footerlinks{color:#000;}
-		/* Content */
-			body #container > footer > .pos .module.module_footerlinks > section,
-			body #container > footer > .pos .module.module_footerlinks > .content{color:#000;}
-		/* List */
-			body #container > footer > .pos .module.module_footerlinks ul{color:#000;}
-		/* List Items */
-			body #container > footer > .pos .module.module_footerlinks ul li{color:#000;}
-		/* Sitemap Item */
-			body #container > footer > .pos .module.module_footerlinks .sitemap{color:#000;}
-		/* Login Item */
-			body #container > footer > .pos .module.module_footerlinks .loginlink{color:#000;}
-		/* Regular Links */
-			body #container > footer > .pos .module.module_footerlinks ul li a,
-			body #container > footer > .pos .module.module_footerlinks ul li a:link,
-			body #container > footer > .pos .module.module_footerlinks ul li a:visited{color:#000;}
-		/* Hover Links */
-			body #container > footer > .pos .module.module_footerlinks ul li a:focus,
-			body #container > footer > .pos .module.module_footerlinks ul li a:active,
-			body #container > footer > .pos .module.module_footerlinks ul li a:hover{color:#000;}
-<<<<<<< HEAD
-=======
-=======
 			body #container > footer .foot_content .module.module_customcontent h6{color:#fff;}
 
 
@@ -1095,8 +805,6 @@ nav li ul {background:none!important;}
 			body #container > footer > .pos .module.module_footerlinks ul li a:focus,
 			body #container > footer > .pos .module.module_footerlinks ul li a:active,
 			body #container > footer > .pos .module.module_footerlinks ul li a:hover{color:#fff;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 /* ======= end of FOOTER STYLES ============================================================= */
 
@@ -1135,25 +843,11 @@ nav li ul {background:none!important;}
 		/* ~~~~~ End Interior Pages, Right Column ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
 		 /* ~~~~~  Home Page Module Selector Reference ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-	 #bd_home #container #body #col-center .module.module_featuredlisting {border:1px dotted #000; margin-top:8px;}
-	 #bd_home #container #body #col-center .module.module_featuredlisting section{padding:6px;}
-	 #bd_home #container #body #col-center .module.module_featuredlisting h3{padding:5px; text-align:left; font-size:18px; color:#000 !important; background-color:#CDC797;}
-	 #bd_home #container #body #col-center .module.module_featuredsearches{border:1px dotted #000;}
-	 #bd_home #container #body #col-center .module.module_featuredsearches h3{padding:5px; text-align:left; font-size:18px; color:#000 !important; background-color:#CDC797;}
-<<<<<<< HEAD
-=======
-=======
 	 #bd_home #container #body #col-center .module.module_featuredlisting {border:1px dotted #222930; margin-top:8px;}
 	 #bd_home #container #body #col-center .module.module_featuredlisting section{padding:6px;}
 	 #bd_home #container #body #col-center .module.module_featuredlisting h3{padding:5px; text-align:left; font-size:18px; color:#dedede !important; background-color:#222930;}
 	 #bd_home #container #body #col-center .module.module_featuredsearches{border:1px dotted #222930;}
 	 #bd_home #container #body #col-center .module.module_featuredsearches h3{padding:5px; text-align:left; font-size:18px; color:#dedede !important; background-color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 			#bd_home #container #body #col-center .module.module_search {}
 			#bd_home #container #body #col-center .module.module_customcontent{}
 			#bd_home #container #body #col-side-b .module.module_bizcard {}
@@ -1178,18 +872,8 @@ nav li ul {background:none!important;}
 		
 		/* ~~~~~ Begin Featured Listings Module ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 			.module.module_featuredlisting {}
-<<<<<<< HEAD
-			.module.module_featuredlisting header h3{font-size:28px; color:#000;}
-			.module.module_featuredlisting .morelistings{color:#000; text-decoration:underline;}
-=======
-<<<<<<< HEAD
-			.module.module_featuredlisting header h3{font-size:28px; color:#000;}
-			.module.module_featuredlisting .morelistings{color:#000; text-decoration:underline;}
-=======
 			.module.module_featuredlisting header h3{font-size:28px; color:#222930;}
 			.module.module_featuredlisting .morelistings{color:#222930; text-decoration:underline;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 			.module.module_featuredlisting .description,
 			.module.module_featuredlisting .courtesyof,
@@ -1198,20 +882,6 @@ nav li ul {background:none!important;}
 			.module.module_featuredlisting .region,
 			.module.module_featuredlisting .postal-code,
 			.module.module_featuredlisting .price,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			.module.module_featuredlisting .type{color:#000;}
-		/* ~~~~~ End Featured Listings Module ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-		
-		/* ~~~~~ Begin Quick Search Module Horizontal ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
-
-		/* Turn Module On/Off, Set background, style, border */
-			#module_Properties{width:95%; margin:0px auto 0px; background-color:#CDC797; border:1px dotted black !important; } 
-<<<<<<< HEAD
-=======
-=======
 			.module.module_featuredlisting .type{color:#222930;}
 		/* ~~~~~ End Featured Listings Module ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 		
@@ -1221,27 +891,13 @@ background:none!important;
 }
 		/* Turn Module On/Off, Set background, style, border */
 			#module_Properties{width:95%; margin:0px auto 0px; background: #222930; border:1px dotted #222930 !important; } 
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 		/* Search module headings */
 			body #container #body .module.module_search > header > h2,
 			body.bd_advancedssearch #container #body .module.module_search > header > h2,
-<<<<<<< HEAD
-			body#bd_openhouse #container #body #col-center .module.module_search > header > h2{}
-			.module.module_search > header{display:inline; margin-top:5px !important;}
-			#bd_home .module.module_search section, #bd_home .module.module_search .content{float:right; width:783px;}
-=======
-<<<<<<< HEAD
-			body#bd_openhouse #container #body #col-center .module.module_search > header > h2{}
-			.module.module_search > header{display:inline; margin-top:5px !important;}
-			#bd_home .module.module_search section, #bd_home .module.module_search .content{float:right; width:783px;}
-=======
 			body#bd_openhouse #container #body #col-center .module.module_search > header > h2{color:#222930!important;}
 			.module.module_search > header{display:inline; margin-top:5px !important;}
 			#bd_home .module.module_search section, #bd_home .module.module_search .content{}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 		/* Subtitles, listing counts on search result pages */
 			body #container #body .module.module_comparehomesresults > header hgroup h3,
@@ -1252,18 +908,8 @@ background:none!important;
 			body #container #body .module.listings_compare > header hgroup h4{}
 
 		/* Button Text Color */
-<<<<<<< HEAD
-			#ctl00_MainContentPlaceholder_ctl00_btnSimpleSearch{color:#000 !important;}
-			#ctl00_MainContentPlaceholder_ctl00_c_AdvSearch_advSubmitBtn{color:#000 !important;}
-=======
-<<<<<<< HEAD
-			#ctl00_MainContentPlaceholder_ctl00_btnSimpleSearch{color:#000 !important;}
-			#ctl00_MainContentPlaceholder_ctl00_c_AdvSearch_advSubmitBtn{color:#000 !important;}
-=======
 			#ctl00_MainContentPlaceholder_ctl00_btnSimpleSearch{color:#dedede !important;}
 			#ctl00_MainContentPlaceholder_ctl00_c_AdvSearch_advSubmitBtn{color:#dedede !important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 			#container > #body .module.module_search > section fieldset li a.searchoptions, #container > 
 			#body .module.module_Properties > section fieldset li a.searchoptions, #container > 
 			#body .module.module_Agents > section fieldset li a.searchoptions, #container > #body .module.module_Offices > 
@@ -1271,24 +917,11 @@ background:none!important;
 			.content fieldset li a.searchoptions, 
 			#container > #body .module.module_Properties > .content fieldset li a.searchoptions, 
 			#container > #body .module.module_Agents > .content fieldset li a.searchoptions, 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			#container > #body .module.module_Offices > .content fieldset li a.searchoptions{color:#000;}
-
-		/* Labels Text Color */
-			.module.module_search label{color:#000;}
-<<<<<<< HEAD
-=======
-=======
 			#container > #body .module.module_Offices > .content fieldset li a.searchoptions{color:#222930;}
 
 		/* Labels Text Color */
 			.module.module_search label{}
 			ctl00_MainContentPlaceholder_objComparableHomesSearchControl_objSimpleSearchComparableHomes_lblAddress {width:275px!important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 		/* ~~~~~ End Quick Search Module Horizontal ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
@@ -1300,40 +933,12 @@ background:none!important;
 				margin-top:-6px;
 				margin-left:-2px; 
 				text-align:center;
-<<<<<<< HEAD
-				border:3px solid #000;
-=======
-<<<<<<< HEAD
-				border:3px solid #000;
-=======
 				border:3px solid #222930;
->>>>>>> First Upload
->>>>>>> Re-Upload
 				background:;
 			}
 			.module.module_search{margin-left:7px;}
 			.module.module_search h2{font-size:24px;}
 			.searchtext {width:185px !important;}
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			.searchtext label span{color:#000 !important;}
-			.minprice {width:90px !important;}
-			.minprice label span{color:#000 !important;}
-			.maxprice {width:90px !important;}
-			.maxprice label span{color:#000 !important;}
-			.beds {width:90px !important;}
-			.beds label span{color:#000 !important;}
-			.baths {width:90px !important;}
-			.baths label {color:#000 !important;}
-			.module.module_search button {margin-left:15px; width:150px;}
-			.module.module_search li .searchoptions{display:none;}
-			
-			.module.module_search{color:#000 !important;}
-<<<<<<< HEAD
-=======
-=======
 			.searchtext label span{color:#222930 !important;}
 			.minprice {width:90px !important;}
 			.minprice label span{color:#222930 !important;}
@@ -1347,8 +952,6 @@ background:none!important;
 			.module.module_search li .searchoptions{display:none;}
 			
 			.module.module_search{color:#222930 !important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 		/* ~~~~~ End Quick Search Module Vertical ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
@@ -1368,21 +971,6 @@ background:none!important;
 		/* ~~~~~ Begin Contact Form Module ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 			#col-side-a > .pos > .module.module_bizcard .agentphoto, #col-side-b > .pos > .module.module_bizcard .agentphoto, #col-side-a > .pos > .module.module_bizcard .agentphoto img, #col-side-b > .pos > .module.module_bizcard .agentphoto img{max-width:77%;}
 			/* Headers in col-side-b */
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			#col-side-b .module.module_bizcard header h3{color:#fff !important;}
-			#col-side-b .module.module_bizcard header{
-			padding:4px;
-			background-color:#8D8C70 !important; 
-			font-size:16px;
-			height:auto;
-			text-align:center;
-			color:#fff !important;
-<<<<<<< HEAD
-=======
-=======
 			#col-side-b .module.module_bizcard header h3{color:#dedede !important;}
 			#col-side-b .module.module_bizcard header{
 			padding:4px;
@@ -1391,110 +979,48 @@ background:none!important;
 			height:auto;
 			text-align:center;
 			color:#dedede !important;
->>>>>>> First Upload
->>>>>>> Re-Upload
 			}
 			#col-side-b > .pos > .module > header > *{padding:4px;}
 			#col-side-b .module_propertycontact header h3, #col-side-b .module_scheduleshowing header h3, #col-side-b .module_mortgage header h3{
 			margin:0px;
 			padding:6px;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			background-color:#8D8C70 !important;
-			color:black;
-			font-size:16px;
-			height:auto;
-			text-align:center;
-			color:#fff !important;
-<<<<<<< HEAD
-=======
-=======
 			background-color:#222930 !important;
 			color:#222930;
 			font-size:16px;
 			height:auto;
 			text-align:center;
 			color:#dedede !important;
->>>>>>> First Upload
->>>>>>> Re-Upload
 			text-transform:capitalize;
 			}
 			#col-side-b .module_localareasearch header h3{
 			padding:6px;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			background-color:#8D8C70 !important;
-			color:black;
-			font-size:16px;
-			height:auto;
-			text-align:center;
-			color:#fff !important;			
-<<<<<<< HEAD
-=======
-=======
 			background-color:#222930 !important;
 			color:#222930;
 			font-size:16px;
 			height:auto;
 			text-align:center;
 			color:#dedede !important;			
->>>>>>> First Upload
->>>>>>> Re-Upload
 			}
 			
 			/* Background of items in col-side-b */
 			#col-side-b .module.module_bizcard {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			border:1px dotted #000;
-			margin-bottom:25px !important; 
-			} 
-			#col-side-b .module_propertycontact, #col-side-b .module_scheduleshowing, #col-side-b .module_mortgage{
-			border:1px dotted #000;
-<<<<<<< HEAD
-=======
-=======
 			border:1px dotted #222930;
 			margin-bottom:25px !important; 
 			} 
 			#col-side-b .module_propertycontact, #col-side-b .module_scheduleshowing, #col-side-b .module_mortgage{
 			border:1px dotted #222930;
->>>>>>> First Upload
->>>>>>> Re-Upload
 			background-color:;
 			margin-bottom:25px !important;
 			position:relative;
 			}		
-<<<<<<< HEAD
-			#col-side-b .module_localareasearch{border:1px dotted #000; background-color:;}
-=======
-<<<<<<< HEAD
-			#col-side-b .module_localareasearch{border:1px dotted #000; background-color:;}
-=======
 			#col-side-b .module_localareasearch{border:1px dotted #222930; background-color:;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 			
 			/* Adjusts padding */
 			#col-side-a > .pos > .module > section, #col-side-b > .pos > .module > section, #col-side-a > .pos > .module > .content, #col-side-b > .pos > .module > .content{padding:.5em;}
 			#col-side-b .module.module_propertycontact section, #col-side-b .module.module_propertycontact div.content{padding:.5em;}
 
 		/* Label Text Color */
-<<<<<<< HEAD
-			.module.module_propertycontact #RequestInfoSection fieldset label{color:#000;}
-=======
-<<<<<<< HEAD
-			.module.module_propertycontact #RequestInfoSection fieldset label{color:#000;}
-=======
 			.module.module_propertycontact #RequestInfoSection fieldset label{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 		/* ~~~~~ End Contact Form Module ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
 
@@ -1542,58 +1068,26 @@ background:none!important;
 			#module_list .listings .pos.pos_listing .description,
 			.listings article .status,
 			.listings article .status b,
-<<<<<<< HEAD
-			#module_list .listings .pos.pos_listing .a-i{color:#000;}
-=======
-<<<<<<< HEAD
-			#module_list .listings .pos.pos_listing .a-i{color:#000;}
-=======
 			#module_list .listings .pos.pos_listing .a-i{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 			#module_list .listings .pos.pos_listing .a-i:hover{color:#444;}
 
 
 		/* List View Styles */
 			#module_photo .listings .pos.pos_listing .price,
 			#module_photo .listings .pos.pos_listing .adr,
-<<<<<<< HEAD
-			#module_photo .listings .pos.pos_listing .status b{color:#000;}
-=======
-<<<<<<< HEAD
-			#module_photo .listings .pos.pos_listing .status b{color:#000;}
-=======
 			#module_photo .listings .pos.pos_listing .status b{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 		/* Map View Styles */
 		
 		/* Price */
-<<<<<<< HEAD
-			body .infowindow .price{ color: #000000;  }
-=======
-<<<<<<< HEAD
-			body .infowindow .price{ color: #000000;  }
-=======
 			body .infowindow .price{ color: #222930000;  }
->>>>>>> First Upload
->>>>>>> Re-Upload
 		
 		/* Address */
 			body .infowindow .adr,
 			body .infowindow .street-address,
 			body .infowindow .locality,
 			body .infowindow .region,
-<<<<<<< HEAD
-			body .infowindow .postal-code{ color: #000000; }
-=======
-<<<<<<< HEAD
-			body .infowindow .postal-code{ color: #000000; }
-=======
 			body .infowindow .postal-code{ color: #222930000; }
->>>>>>> First Upload
->>>>>>> Re-Upload
 		
 		/* Details */
 			body .infowindow .details span,
@@ -1604,38 +1098,16 @@ background:none!important;
 			body .infowindow .mls,
 			body .infowindow .description,
 			body .infowindow .courtesyof,
-<<<<<<< HEAD
-			body .infowindow .status{ color: #000000 !important;}
-=======
-<<<<<<< HEAD
-			body .infowindow .status{ color: #000000 !important;}
-=======
 			body .infowindow .status{ color: #222930000 !important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 		
 		/* Buttons */
 			body .infowindow .buttons,
 			body .infowindow .buttons a,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			body .infowindow .buttons a .a-i{ color: #000000 !important; }
-
-		/* Results Table */
-			#module_map section .listing-mini-address.adr,
-			#module_map section .listing-mini-price .listing-mini-price-body.price.hmoney{color:#000;}
-<<<<<<< HEAD
-=======
-=======
 			body .infowindow .buttons a .a-i{ color: #222930000 !important; }
 
 		/* Results Table */
 			#module_map section .listing-mini-address.adr,
 			#module_map section .listing-mini-price .listing-mini-price-body.price.hmoney{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 		/* Listing Detail Overview */
 			.module.module_listing_detail .col-b.address.vcard .adr.fn,
@@ -1651,72 +1123,29 @@ background:none!important;
 			#col-side-b .module.module_mortgage .mortgage_calculation li label,
 			#MortgageCalculatorSection fieldset ul li label,
 			#ScheduleAShowingSection label,
-<<<<<<< HEAD
-			#col-center .module.module_mortgage .mortgage_calculation div{color:#000;}
-=======
-<<<<<<< HEAD
-			#col-center .module.module_mortgage .mortgage_calculation div{color:#000;}
-=======
 			#col-center .module.module_mortgage .mortgage_calculation div{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 		/* Neighborhood Values Results */
 			.module.module_listings.listings_compare .street-address,
 			.module.module_listings.listings_compare .locality,
 			.module.module_listings.listings_compare .region,
 			.module.module_listings.listings_compare .postal-code,
-<<<<<<< HEAD
-			.module.module_listings.listings_compare .price{color:#000;}
-=======
-<<<<<<< HEAD
-			.module.module_listings.listings_compare .price{color:#000;}
-=======
 			.module.module_listings.listings_compare .price{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 
 		/* Office Information */
 			.module.module_offices .adr.fn,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			.module.module_offices .details{color:#000;}
-			.module.module_offices #map{height:300px;}
-
-		/* Endorsements */
-			.module_CreateEndoresements a{color:#000 !important;}
-<<<<<<< HEAD
-=======
-=======
 			.module.module_offices .details{color:#222930;}
 			.module.module_offices #map{height:300px;}
 
 		/* Endorsements */
 			.module_CreateEndoresements a{color:#222930 !important;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 
 /* ====== END LISTINGS STYLES ========================================================= */
 
 
 /* ====== Special CSS for row of 6 impulse buttons */
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-			#col-special{width:950px; margin:0px auto 0px;}
-			#col-special .module.module_featuredsearches{border:1px dotted #000; margin:0px auto 0px;}
-			#col-special .module.module_featuredsearches h3{padding:5px; text-align:left; font-size:18px; color:#000 !important; background-color:#CDC797;}
-			#col-special .module.module_featuredsearches h4 {
-				color:#444;
-				text-transform:capitalize;
-<<<<<<< HEAD
-=======
-=======
 			#col-special{width:475px; margin:0px; float:left; }
 			#col-special .module.module_featuredsearches{border: 1px dashed #dedede;
 margin: 0px auto 0px;}
@@ -1732,29 +1161,17 @@ line-height: 45px;}
 			#col-special .module.module_featuredsearches h4 {
 				color:#444;
 				text-transform:uppercase;
->>>>>>> First Upload
->>>>>>> Re-Upload
 				font-size:15px;
 				font-weight:bold;
 				padding:5px 0px;
 			}
 			#col-special .module.module_featuredsearches .thumb img {
-<<<<<<< HEAD
-				width:143px  !important;
-				height:108px  !important;
-=======
-<<<<<<< HEAD
-				width:143px  !important;
-				height:108px  !important;
-=======
 				width:140px  !important;
 				height:140px  !important;
 				-webkit-border-radius:50%;
 				-moz-border-radius:50%;
 				-ms-border-radius:50%;
 				border-radius:50%;
->>>>>>> First Upload
->>>>>>> Re-Upload
 			}
 			#col-special .module.module_featuredsearches section, #col-special .module.module_featuredsearches .content {zoom:1;}
 			#col-special .module.module_featuredsearches section:before, #col-special .module.module_featuredsearches .content:before, #col-special 			.module.module_featuredsearches section:after, #col-special .module.module_featuredsearches .content:after {content:"";
@@ -1764,15 +1181,7 @@ line-height: 45px;}
 		#col-special .module.module_featuredsearches section article, #col-special .module.module_featuredsearches .content article {z-index:1;
 				zoom:1;
 				float:left;
-<<<<<<< HEAD
-				width:146px  !important;
-=======
-<<<<<<< HEAD
-				width:146px  !important;
-=======
 				width:145px  !important;
->>>>>>> First Upload
->>>>>>> Re-Upload
 			}
 		#col-special .module.module_featuredsearches section article:before, #col-special .module.module_featuredsearches .content article:before, #col-special .module.module_featuredsearches section article:after, #col-special .module.module_featuredsearches .content article:after {content:"";
 				display:table;
@@ -1786,15 +1195,7 @@ line-height: 45px;}
 				overflow:hidden;
 				display:block;
 			}
-<<<<<<< HEAD
-		#col-special .module.module_featuredsearches section article>a, #col-special .module.module_featuredsearches .content article>a {text-transform:capitalize;}
-=======
-<<<<<<< HEAD
-		#col-special .module.module_featuredsearches section article>a, #col-special .module.module_featuredsearches .content article>a {text-transform:capitalize;}
-=======
 		#col-special .module.module_featuredsearches section article>a, #col-special .module.module_featuredsearches .content article>a {text-transform:uppercase;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 		#col-special .module.module_featuredsearches h4 {
 				padding:5px 5px 10px 5px;
 				font-size:12px;				
@@ -1825,36 +1226,6 @@ line-height: 45px;}
 				position:relative;
 			}
 		#col-special .module.module_featuredsearches article a:first-child, #col-special .module.module_featuredsearches article a.thumb {
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-				background:#8D8C70;
-			}
-		#col-special .module.module_featuredsearches a {
-				text-align:center;
-				display:block;
-				float:none;
-				clear:both;
-				position:absolute;
-				width:143px !important;
-				bottom:8px;
-				left:0px;
-				z-index:2;
-				padding:5px;
-				background:#E6E3CB;
-				color:#000;
-				font-weight:bold;
-				-moz-opacity:0.8;
-				-webkit-opacity:0.8;
-				opacity:0.8;
-				-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=, 80, );
-				filter:alpha(opacity=80);
-			}
-		#col-special .module.module_featuredsearches a:hover {background-color:#8D8C70; color:#fff;}
-<<<<<<< HEAD
-=======
-=======
 				opacity:.7;
 				-webkit-transition:opacity .2s linear;
 				-moz-transition:opacity .2s linear;
@@ -1907,8 +1278,6 @@ line-height: 45px;}
 				filter: alpha(opacity=100);
 			}
 		#col-special .module.module_featuredsearches a:hover {color:#dedede;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 		#col-special .module.module_featuredsearches a:first-child {
 				clear:none;
 				float:left;
@@ -1928,15 +1297,7 @@ line-height: 45px;}
 .module.module_customcontent,
 .module.module_customcontent h1,
 .module.module_customcontent h2,
-<<<<<<< HEAD
-.module.module_customcontent h3{color:#000;}
-=======
-<<<<<<< HEAD
-.module.module_customcontent h3{color:#000;}
-=======
 .module.module_customcontent h3{color:#222930;}
->>>>>>> First Upload
->>>>>>> Re-Upload
 
 /* ====== END USER CREATED STYLES ========================================================= */
 

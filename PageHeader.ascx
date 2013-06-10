@@ -2,23 +2,12 @@
 <%@ Register TagPrefix="uc1" TagName="MyProfileSignOn" Src="~/enSharedControls/CustomControls/BrandControls/eN/MyProfileSignOn.ascx" %>
 <%@ Register TagPrefix="uc1" TagName="Branding" Src="~/eNPropertySearch/CustomControls/Branding_uc.ascx" %>
 <%-- Page Header START  --%>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> Re-Upload
-  
-  <div class="pos">
-   
-  
-<<<<<<< HEAD
-=======
-=======
 
   <div class="pos">
   <div class="tagRibbon">
   <div class="ribbon-wrapper">
 		<div class="ribbon-front">
-   <span class="tagLine">This Is A Tagline</span>
+   <span class="tagLine">Find Your Paradise</span>
    <span class="socialMedia"> 
    <a href="#"><span class="socialButton fb">F</span></a> 
   <a href="#"><span class="socialButton twitter">T</span></a> 
@@ -40,8 +29,6 @@
 
 <img src="/CustomData/150017466/images/slide.jpg" />
 
->>>>>>> First Upload
->>>>>>> Re-Upload
 
        <uc1:MyProfileSignOn id="MyProfileSignOn_uc" runat="server" /> 
            <aside class="branding">         
